@@ -1,1 +1,1 @@
-# test
+# pratices in raspberry pi
